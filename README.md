@@ -9,6 +9,12 @@ A simple example demonstrating how to implement a Progress Bar in your scripts.
 
 
 ## File Renamer
+A simple AppleScript to rename files. I will add documentation to explain the code when time permits.
 
 ## Do Script in Terminal
 Execute a shell script in the Terminal app. For the most part, this is not necessary as you can call shell scripts directly from AppleScript, but it is a useful technique to know, just in case.
+
+## AppleScript Icons
+
+A script that demonstrates how to use the different system icons in dialogs
+
